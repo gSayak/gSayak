@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Open source projects**
+- 🤝 I’m looking for help with **Wroking on new projects and learning new Tech**
 
 - 📫 How to reach me **gsayak22@gmail.com**
 
