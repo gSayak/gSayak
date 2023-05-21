@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Sayak Ghosh Here!</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently contributing in **Open Source**
 
 - 🤝 I’m looking for help with **Wroking on new projects and learning new Tech**
 
