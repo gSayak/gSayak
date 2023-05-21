@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently contributing in **Open Source**
 
-- 🤝 I’m looking for help with **Wroking on new projects and learning new Tech**
+- 🤝 I’m looking for help with **Working on new projects and learning new Tech**
 
 - 📫 How to reach me **gsayak22@gmail.com**
 
