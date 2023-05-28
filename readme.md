@@ -19,4 +19,6 @@
 <a href="https://linkedin.com/in/sayak-ghosh-3b93b6219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayak-ghosh-3b93b6219" height="30" width="40" /></a>
 </p>
 
-![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/gSayak/gSayak/blob/output/github-contribution-grid-snake.gif))
+
+
+![snake gif](https://github.com/gSayak/gSayak/blob/output/github-contribution-grid-snake.gif)
