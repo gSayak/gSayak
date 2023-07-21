@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gsayak22@gmail.com**
 
-- 👨‍🎓 My **<a href="[https://drive.google.com/file/d/1T5TdJhrTjIoyHOM44cI8M3A4dY0OB3iY/view?usp=drive_link](https://drive.google.com/file/d/1x2pi5_sVlg4BYVGx7uhyP270bTMZjjlA/view?usp=sharing)">Resume</a>**
+- 👨‍🎓 My **<a href="https://drive.google.com/file/d/1x2pi5_sVlg4BYVGx7uhyP270bTMZjjlA/view?usp=sharing">Resume</a>**
 <h2> Stats </h2>
 
 ![gSayak's Stats](https://github-readme-stats.vercel.app/api?username=gSayak&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![gSayak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gSayak&theme=vue-dark&hide_border=true)
