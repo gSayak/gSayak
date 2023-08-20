@@ -1,5 +1,8 @@
+![](https://komarev.com/ghpvc/?username=gSayak&color=orange)
+
 <h1 align="center">Hey 👋, Sayak Ghosh Here!</h1>
 <h3 align="center">A passionate developer from India</h3>
+
 
 <h2>About me</h2>
 
