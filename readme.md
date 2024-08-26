@@ -6,13 +6,13 @@
 
 <h2>About me</h2>
 
-- 🌱 I’m currently contributing in **Open Source**
+- 🌱 I’m currently working as a **Backend Engineer/ML**
 
-- 🤝 I’m looking for help with **Working on new projects and learning new Tech**
+- 🤝 I’m looking for help with **being a part of an industry where I can contribute to build AGI**
 
-- 📫 How to reach me **gsayak22@gmail.com**
+- 📫 How to reach me **gsayak2001@gmail.com**
 
-- 👨‍🎓 My **<a href="https://drive.google.com/file/d/1FknXvUOOnWXZCWHc8ajjzgzNJDyuS7Ku/view?usp=sharing">Resume</a>**
+- 👨‍🎓 My **<a href="https://sayak.super.site/">Portfolio</a>**
 <h2> Stats </h2>
 
 ![gSayak's Stats](https://github-readme-stats.vercel.app/api?username=gSayak&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![gSayak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gSayak&theme=vue-dark&hide_border=true)
