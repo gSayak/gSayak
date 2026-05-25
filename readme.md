@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 
-- 🌱 I’m currently working as a **Backend Engineer/ML**
+- 🌱 I’m currently working as a **Fullstack Engineer/Backend AI**
 
 - 🤝 I’m looking for help with **being a part of an industry where I can contribute to build AGI**
 
